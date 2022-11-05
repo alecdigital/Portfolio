@@ -1,5 +1,5 @@
 # Portfolio
-Data analyst Portfolio
+
 ---
 Proyecto 1: Startup Tecnológica
 
