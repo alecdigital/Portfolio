@@ -9,5 +9,7 @@ Objetivo: Definir y calcular métricas de retención de clientes en una startup 
 
 Resultados: Definir el Product Market Fit, realizar un análisis de Cohortes para tomar decisiones de negocio basadas en data. Seleccionar y filtrar datos utilizando Queries.
 
+Herramientas usadas: Google Sheet
+
 
 [Presentación](https://bit.ly/3DyNxxt)
