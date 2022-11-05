@@ -11,11 +11,10 @@ Resultados: Definir el Product Market Fit, realizar un análisis de Cohortes par
 
 Herramientas usadas: Google Sheet
 
-
 [Presentación](https://bit.ly/3DyNxxt)
 ---
 
-Proyecto 3: Análisis UK Merch. Segmentación de Clientes en ecommerce
+Proyecto 2: Análisis UK Merch. Segmentación de Clientes en ecommerce
 
 
 Objetivo: Utilizar herramientas de analítica para medir la salud de un negocio y segmentar clientes.
